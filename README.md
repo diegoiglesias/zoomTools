@@ -13,7 +13,7 @@ Installation should be quite easy, here are three ways to do it.
 
 ### Install using Sketchpacks (recommended)
 
-[![Install ArtboardZoom with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install ArtboardZoom with Sketchpacks")](https://sketchpacks.com/Arkkimaagi/ArtboardZoom/install)
+[![Install zoomTools with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install zoomTools with Sketchpacks")](https://sketchpacks.com/diegoiglesias/zoomTools/install)
 
 1. Install the app from https://sketchpacks.com/
 2. Install the plugin using the app. (possibly using the image above)
@@ -27,10 +27,9 @@ Installation should be quite easy, here are three ways to do it.
 4. Remember to update plugins using the app manually.
 
 ### Install from this repository
-1. Download and open [master.zip](https://github.com/Arkkimaagi/ArtboardZoom/archive/master.zip)
-2. Navigate the Sketch menu bar to `Plugins ▸ Manage Plugins... ▸ ⚙ (Settings gear symbol) ▸ Show Plugins Folder`
-3. Place `ArtboardZoom.sketchplugin` into the revealed plugins directory
-4. Remember to check for updates manually on this website.
+1. Download and open [master.zip](https://github.com/diegoiglesias/zoomTools/archive/master.zip)
+2. Run `zoomTools.sketchplugin`
+3. Remember to check for updates manually on this website.
 
 ## How to Use
   Select `Plugins ▸ ArtboardZoom ▸ ArtboardZoom` in the Sketch menu bar or use the keyboard shortcut <kbd>⌘</kbd> + <kbd>4</kbd> to zoom to the Artboard of selected layer. This is helpful if you're designing small screens like mobile screens.
