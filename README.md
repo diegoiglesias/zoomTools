@@ -1,5 +1,10 @@
-# ArtboardZoom v 1.2.3
-Tiny Sketch.app plugin for zooming to Artboard of currently selected object.
+# ZoomTools v 1.0
+Tiny Sketch.app plugin does two things:
+
+- Scroll to top of current artboard
+- Zoom to 75% of current arboard
+
+**This is a very simple fork of the plugin [ArtboardZoom](https://github.com/Arkkimaagi/ArtboardZoom) by Mikko Tapionlinna**
 
 <img src="/../artwork/ArtboardZoom.png?raw=true" alt="ArtboardZoom Cmd+4" width="200">
 
@@ -34,23 +39,13 @@ Installation should be quite easy, here are three ways to do it.
 
 **Keyboard Shortcut**
 
-| *Shortcut*                                 | *Action*                                    |
-|--------------------------------------------|---------------------------------------------|
-| <kbd>⌘</kbd> + <kbd>4</kbd>                | Zoom to currently selected artboard         |
-| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd> | Zoom to currently selected artboard at 100% |
+| *Shortcut*                                 | *Action*                                       |
+|--------------------------------------------|------------------------------------------------|
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>3</kbd> | Scroll to top of currently selected artboard   |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd> | Zoom to currently selected artboard at 75%     |
 
 ## Version history
 
-* 1.2.3 Added version information to the About-dialog
-* 1.2.2 Added a fix for API changes in Sketch 48
-* 1.2.1 Added support for Sketch 45 update plugin feature
-* 1.2.0
-  * Added support for zooming to 100%
-  * added about-menu option
-  * improved README.md
-  * Removed sketchtoolbox.json file as development stalled on it.
-* 1.1.0 Updated to latest plugin architecture
-* 1.0.1 Bugfix for latest Sketch 3.3
 * 1.0.0 Initial version
 
 ## Feedback
