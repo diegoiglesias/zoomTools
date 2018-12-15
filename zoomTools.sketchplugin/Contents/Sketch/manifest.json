@@ -5,14 +5,14 @@
       "script" : "zoomTools.cocoascript",
       "handler" : "scrollToTop",
       "shortcut" : "command alt 3",
-      "name" : "ScrollToTop",
+      "name" : "Scroll to top and center",
       "identifier" : "scrollToTop"
     },
     {
       "script" : "zoomTools.cocoascript",
       "handler" : "zoomTo75",
       "shortcut" : "command alt 4",
-      "name" : "zoomTo75",
+      "name" : "Zoom to 75%",
       "identifier" : "zoomTo75"
     },
     {
