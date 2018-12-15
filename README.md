@@ -6,8 +6,6 @@ Tiny Sketch.app plugin does two things:
 
 **This is a very simple fork of the plugin [ArtboardZoom](https://github.com/Arkkimaagi/ArtboardZoom) by Mikko Tapionlinna**
 
-<img src="/../artwork/ArtboardZoom.png?raw=true" alt="ArtboardZoom Cmd+4" width="200">
-
 ## Installation
 Installation should be quite easy, here are three ways to do it.
 
