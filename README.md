@@ -2,7 +2,7 @@
 Tiny Sketch.app plugin does two things:
 
 - Scroll to top and center artboard on screen
-- Zoom to 75% of current arboard
+- Zoom current arboard to 75%
 
 **This is a very simple fork of the plugin [ArtboardZoom](https://github.com/Arkkimaagi/ArtboardZoom) by Mikko Tapionlinna**
 
@@ -36,10 +36,10 @@ Installation should be quite easy, here are three ways to do it.
 
 **Keyboard Shortcut**
 
-| *Shortcut*                                 | *Action*                                       |
-|--------------------------------------------|------------------------------------------------|
-| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>3</kbd> | Scroll to top and center artboard on screen    |
-| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd> | Zoom to currently selected artboard at 75%     |
+| *Shortcut*                                 | *Action*                                    |
+|--------------------------------------------|---------------------------------------------|
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>3</kbd> | Scroll to top and center artboard on screen |
+| <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd> | Zoom currently selected artboard to 75%     |
 
 ## Version history
 
