@@ -30,9 +30,9 @@ Installation should be quite easy, here are three ways to do it.
 3. Remember to check for updates manually on this website.
 
 ## How to Use
-  Select `Plugins ▸ ArtboardZoom ▸ ArtboardZoom` in the Sketch menu bar or use the keyboard shortcut <kbd>⌘</kbd> + <kbd>4</kbd> to zoom to the Artboard of selected layer. This is helpful if you're designing small screens like mobile screens.
+  Select `Plugins ▸ zoomTools ▸ zoomTools` in the Sketch menu bar or use the keyboard shortcut <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>3</kbd> to scroll to top of the current artboard.
 
-  If you prefer to zoom at 100% while centering the currently selected artboard, I've saved you one extra keypress by having an shortcut for it <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd>
+  If you prefer to zoom at 75% while centering the currently selected artboard, use the shortcut <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>4</kbd>
 
 **Keyboard Shortcut**
 
