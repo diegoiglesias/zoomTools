@@ -1,0 +1,41 @@
+{
+  "author" : "Diego Iglesias",
+  "commands" : [
+    {
+      "script" : "zoomTools.cocoascript",
+      "handler" : "scrollToTop",
+      "shortcut" : "command alt 3",
+      "name" : "ScrollToTop",
+      "identifier" : "scrollToTop"
+    },
+    {
+      "script" : "zoomTools.cocoascript",
+      "handler" : "zoomTo75",
+      "shortcut" : "command alt 4",
+      "name" : "zoomTo75",
+      "identifier" : "zoomTo75"
+    },
+    {
+      "script" : "zoomTools.cocoascript",
+      "handler" : "about",
+      "shortcut" : "",
+      "name" : "About zoomTools...",
+      "identifier" : "about"
+    }
+  ],
+  "menu": {
+    "isRoot": false,
+    "items": [
+      "scrollToTop",
+      "zoomTo75",
+      "-",
+      "about"
+    ]
+  },
+  "identifier" : "com.github.diegoiglesias.zoomtools",
+  "version" : "1.0.0",
+  "appcast" : "https://api.sketchpacks.com/v1/plugins/com.github.diegoiglesias.zoomtools/appcast",
+  "description" : "Tiny Sketch.app plugin for scroll to top or zoom current artboard to 75%.",
+  "authorEmail" : "d.iglesias.lopez@gmail.com",
+  "name" : "zoomTools"
+}
